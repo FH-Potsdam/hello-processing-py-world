@@ -23,6 +23,9 @@ Shows how to use def `setup():`, `def draw():` and how to declare own functions.
 
 Shows how to store values in a two dimensional `list` and how to access them. Makes use of `for` loops, `len()`, `list.append()`, `random()`, `int()` and `ellipse()`
 
+##draw_triangle
+
+![](images/draw_triangle.png)  
 
 Copyright (c) 2015 Fabian Moron Zirfas & FH-Potsdam
 
