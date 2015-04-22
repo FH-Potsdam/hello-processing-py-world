@@ -17,8 +17,9 @@ bower_components
 #sublme sftp plugin
 sftp-config.json
 # processing
-sketch.properties
+# sketch.properties
 build-tmp
+*$py.class
 # codekit
 .codekit-cache
 # a file with private data
