@@ -10,9 +10,9 @@ def setup():
     # second triangle
     p4 = PVector(50, 50)
     tri1 = Tri(p1, p2, p3)  # new object of class Tri
-    tri2 = Tri(tri1.p3, tri1.p2, p4)
+    #tri2 = Tri(tri1.p3, tri1.p2, p4)
     liste_of_tris.append(tri1)
-    liste_of_tris.append(tri2)
+    #liste_of_tris.append(tri2)
     #tri1.display_lines(255)
     #tri2.display_lines(0)
     #tri1.display_ellipse(255)

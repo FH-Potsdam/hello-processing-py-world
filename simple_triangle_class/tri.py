@@ -12,7 +12,7 @@ class Tri(object):
 
     def display_lines(self, col):
         # method of class display
-        fill(col)
+        fill(col,100)
         beginShape()
         vertex(self.p1.x,self.p1.y)
         vertex(self.p2.x,self.p2.y)
